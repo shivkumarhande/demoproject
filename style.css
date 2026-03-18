@@ -1,0 +1,7 @@
+body {
+  background-color: lightblue; /* Sets the entire page background to light blue */
+}
+
+.my-element {
+  background-color: #f0f0f0; /* Sets a specific element's background color */
+}
